@@ -1,4 +1,4 @@
-# holistic-slip-8772
+# BigBasket - Clone
 
 - `BigBasket - Clone`
 - `Project Name - BigBucket`
